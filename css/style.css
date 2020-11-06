@@ -19,20 +19,20 @@ nav {
     width: 1170px;
     margin: 0 auto;
 }
-.nav {
+.nav2 {
     width: 570px;
     display: flex;
     justify-content: space-between;
     text-transform: uppercase;
     align-self: flex-end; 
 }
-.nav > div > a {
+.nav2 > div > a {
     text-decoration: none;
     color: black;
     border-top: 5px solid transparent;
     padding-top: 10px;
 }
-.nav > div > a:hover {
+.nav2 > div > a:hover {
     border-top: 5px solid #ff6033;
     padding-top: 10px;
   
@@ -460,4 +460,6 @@ color: red;
 .form-block2 {
     display: none;
 }
- 
+.burger-menu {
+    display: none;
+}

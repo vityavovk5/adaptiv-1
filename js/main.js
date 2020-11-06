@@ -35,3 +35,6 @@ function validate(full_form,email) {
 jQuery(function($){
     $("#tel").mask("+38(999) 999-99-99");
     });
+
+     
+    
